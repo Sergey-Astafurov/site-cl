@@ -1,0 +1,154 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.btn-login{
+    font-weight: bold;
+    font-size: 18px;
+    width: 96px;
+    height: 52px;
+    border-radius: 100px;
+    border: 2px solid #000;
+}
+.btn-talk{
+    width: 189px;
+    height: 50px;
+    border: 2px solid #000;
+    border-radius: 100px;
+    background: #000;
+    color: #fff;
+    font-size: 18px;
+
+}
+button:focus{
+    box-shadow: none !important;
+}
+.btn-talk:hover{
+    background: #fff;
+
+}
+.nav-a{
+    /* margin-bottom: 90px; */
+}
+/* -----------НАВИГАЦИЯ--------------- */
+
+.title-header{
+    margin-top: 97px;
+    font-size: 77px;
+    line-height: 83px;
+    margin-bottom: 27px;
+}
+.subtitle-header{
+    font-size: 20px;
+    line-height: 31px;
+}
+.img-promo{
+    margin-top: 31px;
+}
+.text-small{
+    margin-top: 80px;
+    margin-bottom: 30px;
+
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+}
+header{
+    margin-bottom: 130px;
+}
+/* -----------ГЛАВНЫЙ ЭКРАН--------------- */
+
+/* -----------БЛОК 2--------------- */
+
+.block-2{
+    padding: 100px;
+
+}
+.img-block-2{
+    margin-right: 50px;
+}
+.title{
+    font-size: 57px;
+    
+}
+.title-b-2{
+    max-width: 445px;
+    font-size: 57px;
+    margin-bottom: 33px;
+    line-height: 58px;
+}
+.st-b-2{
+    font-size: 20px;
+    max-width: 560px;
+}
+
+.wt{
+    margin-bottom: 80px;
+    
+}
+.wh{
+    font-size: 28px;
+    padding: 25px 0 15px 0;
+}
+.why-text{
+    display: block;
+    width: 280px;
+}
+
+.btn-disc {
+    margin-top: 70px;
+    font-size: 18px;
+    width: 235px;
+    border-radius: 100px;
+    background: #F7B2B7;
+}
+section{
+    padding: 100px 0;
+}
+.plans{
+    background: #FDECED;
+
+}
+
+.at{
+    padding-top: 150px;
+}
+.btn-ac{
+    max-width: 140px !important;
+}
+
+.bg{
+    background: #8BD4D6;
+    padding: 90px 0;
+    border-radius: 10px;
+}
+.body-card{
+    padding-left: 90px;
+}
+.btn-get{
+    width: 160px;
+    
+}
+
+footer{
+    color: #fff;
+    padding: 45px 0;
+    background: #302E3F;
+}
+
+.foot-text{
+    margin-top: 10px;
+    font-size: 28px;
+}
+.foot-block{
+    margin: 50px 0;
+}
+.col-2 b{
+    font-size: 20px;
+}
+.foot-link a{
+    font-size: 16px;
+    display: block;
+    margin: 10px 0;
+    text-decoration: none;
+    color: #fff;
+}
