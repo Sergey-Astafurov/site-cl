@@ -106,6 +106,9 @@ section{
     background: #FDECED;
 
 }
+img{
+    max-width:100%;
+}
 
 .at{
     padding-top: 150px;
