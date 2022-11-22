@@ -106,7 +106,7 @@ section{
     background: #FDECED;
 
 }
-img{
+body > section.ac > div > div.row.align-self-center > div:nth-child(2) > img{
     max-width:100%;
 }
 
